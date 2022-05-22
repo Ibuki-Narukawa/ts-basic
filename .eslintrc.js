@@ -18,3 +18,4 @@ module.exports = {
     root: true, // 上位ディレクトリにある他のeslintrcを参照しないようにする
     rules: {}
   }
+  
